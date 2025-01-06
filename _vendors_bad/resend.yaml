@@ -5,9 +5,9 @@ free_sso_providers:
   - Github
   - Google
 name: Resend
-pricing_scheme: per user/month
+pricing_scheme: per month
 pricing_sources:
   - https://resend.com/pricing
-sso_pricing: unknown
-updated_at: 2023-11-25
+sso_pricing: 90
+updated_at: 2025-01-06
 vendor_url: https://resend.com
